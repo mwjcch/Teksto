@@ -1,4 +1,4 @@
-Aplikacja mobilna autora: Wojciech Małek
+Teksto: Aplikacja mobilna autora: Wojciech Małek
 Korzystając z aplikacji użytkownik wyraża zgodę na postanowienia niniejszej Polityki
 Prywatności.
 
