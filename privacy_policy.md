@@ -13,7 +13,8 @@ Aplikacja korzysta z usług firmy Google: Firebase Crashlytics w celu zbierania 
 
 W celu uzyskania precyzyjnych informacji dotyczących zbierania i przetwarzania
 Danych, zapoznaj się z polityką prywatności każdej Usługi:
-Firebase Crashlytics - https://firebase.google.com/terms/crashlytics
+* **Firebase Crashlytics:** https://firebase.google.com/terms/crashlytics
+* **AdMob:** https://support.google.com/admob/answer/6128543
 
 W przypadku pytań i informacji dotyczących Polityki Prywatności prosimy o kontakt
 pod adresem mwjcch@gmail.com. Właściciel zastrzega sobie prawo do zmiany postanowień niniejszej Polityki
